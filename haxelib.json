@@ -1,0 +1,11 @@
+{
+  "name": "hx-terminal-colors",
+  "url" : "https://github.com/jasononeil/useless/",
+  "license": "MIT",
+  "tags": ["chalk", "terminal", "console", "colors"],
+  "description": "For displaying colored console/terminal output with haxe",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release",
+  "contributors": ["dyoung-2021"]
+}
